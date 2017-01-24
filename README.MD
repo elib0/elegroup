@@ -1,8 +1,8 @@
-Enlace Actual: `http://www.elegroup.com.pe/`
+## Enlaces:
+  * [EleGroup](http://www.elegroup.com.pe/)
+  * [Nuevo Diseño](https://elib0.github.io/elegroup/)
 
-Enlace de muestra(Diseño Nuevo): `https://elib0.github.io/elegroup/.`
-
-Ruta del Mapa:
+## Ruta del Mapa:
   1. Colocar todo el contenido de la pagina vieja en el nuevo diseño de plantilla, fotos, texto contenido informativo, direcciones, teléfonos, redes sociales.
   2. Colocar la fuente (texto) que tiene la pagina que le gusto `http://www.gedecom.com.ve/
 ` al cliente de muestra.
